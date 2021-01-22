@@ -1,0 +1,39 @@
+.row > *
+{
+  width:inherit;
+}
+.form-control{
+  width:auto;
+}
+.alert{
+  width: 1010px;
+margin-left: 143px;
+}
+.container{
+min-height: 100vh;
+
+}
+.error{
+  color: #483333;
+  padding: 10px;
+  background: #ffbcbc;
+  border: #efb0b0 1px solid;
+  border-radius: 3px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 350px;
+  display:none;
+  box-sizing: border-box;
+}
+.success{
+  color: #483333;
+  padding: 10px 20px;
+  background: #cff9b5;
+  border: #bce4a3 1px solid;
+  border-radius: 3px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 350px;
+  display:none;
+  box-sizing: border-box;
+}
